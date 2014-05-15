@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<layman>
+   <overlay
+      type    = "git"
+      src     = "https://canassa@github.com/canassa/overlay.git"
+      contact = ""
+      status  = "unofficial"
+      name    = "canassa">
+      <link>http://github.com/aegypius/overlay/wiki</link>
+      <description>canassa personal overlay</description>
+   </overlay>
+</layman>
