@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="official">
+        <name>canassa</name>
+        <description>experimental ebuilds</description>
+        <homepage>http://canassa.github.com/overlay/</homepage>
+        <owner type="project">
+                <email>cesar@canassa.com</email>
+                <name>canassa</name>
+        </owner>
+        <source type="git">git://github.com/canassa/overlay.git</source>
+</repo>
+</repositories>
